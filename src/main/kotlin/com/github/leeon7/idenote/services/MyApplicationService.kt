@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.leeon7.idenote.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.leeon7.idenote.MyBundle
 
 class MyApplicationService {
 
